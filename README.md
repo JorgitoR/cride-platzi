@@ -13,6 +13,8 @@ friends and I decided to build a very simple website (using Django)
 to gather and display information about this rides. The platform
 quickly got some attention:
 
+This is the project developed by jorgito
+
 * [**Public TV interview**](https://www.youtube.com/watch?v=vW3dXpSjVRg)
 * Press articles: [El Financiero](https://www.elfinanciero.com.mx/universidades/alumnos-del-tec-arman-app-de-rides-ante-el-doble-hoy-no-circula.html), [Univision](www.univision.com/noticias/citylab-transporte/restriccion-vehicular-en-mexico-impulsa-a-una-app-para-compartir-viajes), [El Universal](http://www.eluniversal.com.mx/articulo/techbit/2016/04/11/ayuda-reducir-uso-de-autos-con-comparteride), [UNO TV](https://www.unotv.com/noticias/portal/negocios/detalle/ante-problemas-contingencia-ambiental-comparte-ride-031332/)
 
